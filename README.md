@@ -1,2 +1,2 @@
-# contracts
-Smart Contracts for Brattiez Collection
+# Brattiez Contract
+- Smart Contracts for Brattiez Collection
